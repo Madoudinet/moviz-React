@@ -1,0 +1,28 @@
+.card {
+    /* display: flex; */
+    min-height: 500px;
+    overflow: hidden;
+    border-radius: 10px;
+    width: 300px;
+    background-color: #333;
+    color: #fff;
+}
+
+.video {
+    color: #aaa;
+    border: none;
+    background: none;
+    cursor: pointer;
+}
+
+.button {
+    color: #aaa;
+    border: none;
+    background: none;
+    cursor: pointer;
+    display: block;
+}
+
+.desc {
+    padding: 10px;
+}
